@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import '../node_modules/bootstrap/dist/js/bootstrap.min.js'
-import Condtionally_Rendering from './Conditionally_Rendering.jsx';
+ 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,7 +14,7 @@ root.render(
     <App />
 
 
-    {/* <Condtionally_Rendering /> */}
+    
   </React.StrictMode>
 );
 
